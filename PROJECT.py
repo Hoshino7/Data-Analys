@@ -7,3 +7,5 @@ Skill = "Koding"
 print(str(Level)+Skill)
 Pesan_mu = (input())
 print(Pesan_mu)
+price = 2030/10
+print(type(price))
