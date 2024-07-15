@@ -84,3 +84,41 @@ while guess != password:
     guess = input("Password: ")
     print(guess == password)
 print("Selamat Datang")
+
+#anda bisa membuat code anda lebih simple
+#contoh
+umur = 21
+if umur >= 18: print("anda berusia 18 tahun keatas")
+print("anda diterima")
+
+#kamu bisa menggunakan elif statement (short for else if statement) contoh
+usia = 67
+if usia < 18:
+    print("anda masih muda")
+elif usia <= 65:
+    print("anda belum pensiun")
+else:
+    print("anda sudah pensiun")
+print("Dan tidak perlu bekerja lagi")
+
+#list
+compositor=[
+    "simpony1",
+    "simpony2",
+    "simpony3"
+]
+print(compositor)
+#index di hitung dari 0 atau value pertama dari kiri maupun paling atas
+
+prikitiw=['leman', 'asep', 'jupri']
+print(prikitiw[0])
+my_host=prikitiw[1]
+
+produk=['apel', ' keju', 'pisang']
+produk[0]='lime'
+print(produk[2]+produk[1])
+
+#vending machine
+produk = ['apel', 'manggis', 'air']
+choice = int(input)
+print(produk[choice])
