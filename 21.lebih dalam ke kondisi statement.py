@@ -18,16 +18,16 @@ if age < 20:
 print("melanjutkan ke pembayaran")
 
 #anda bisa membuat code anda lebih simple
-#contoh
+#contoh 
 umur = 21
 if umur >= 18: print("anda berusia 18 tahun keatas")
 print("anda diterima")
 
 #kamu bisa menggunakan elif statement (short for else if statement) contoh
-usia = 67
-if usia < 18:
+usia = 67 
+if usia < 18: 
     print("anda masih muda")
-elif usia <= 65:
+elif usia <= 65: 
     print("anda belum pensiun")
 else:
     print("anda sudah pensiun")
@@ -36,7 +36,7 @@ print("Dan tidak perlu bekerja lagi")
 #if, elif dan else harus berada pada statement yang benar 
 #pada baris paling atas itu pasti if, kedua itu elif, dan ketiga itu else
 
-if age < 18:
+if age < 18: 
     if is_student:
         print("diskon 20%")
     else:
