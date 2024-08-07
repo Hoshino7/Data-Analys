@@ -19,12 +19,12 @@ my_host=prikitiw[1]
 
 #list itu mutable, maksudnya kamu bisa mengubah valuenta setelah membuat list contoh
 nums = [8, 6, 19]
-nums[0] = 1
+nums[0] = 1 
 print(nums[0])
 
 #bisa juga di gabungkan
 word=['rise', 'bangkit', 'manipulasi']
-print(word[0] + word[2])
+print(word[0] + word[2]) 
 
 #jadi output list dibawah apanih?
 produk=['apel', ' keju', 'pisang']

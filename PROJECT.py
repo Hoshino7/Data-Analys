@@ -58,7 +58,7 @@ else:
   print("Incorrect")
 
   for i in range(5):
-    print("Halo")
+    print("Berurutan")
 
 i = 1
 while i <= 5:
