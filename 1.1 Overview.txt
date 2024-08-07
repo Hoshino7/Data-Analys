@@ -1,0 +1,42 @@
+1.Melacak invetaris
+2.Menidentifikasi kebiasaan pembeliaan
+3.Mendeteksi tren dan pola pengguna
+4.merekomendasikan pengoptimalan harga
+5.Mengidentifikasi dan menghentikan penipuan
+
+  Bertindak berdasarkan data untuk melakukan perubahan dalam bisnis.
+  Tindakan itu dapat melibatkan
+1.Relokasi sumberdaya dalam bisnis untuk mengakomodasi kebutuhan
+2.Mengidentifikasi Kampanye yang gagal dan kapan harus mengubah arah
+
+  Komponen inti analitik di bagi menjadi beberapa kategori, yaitu
+1.Deskriptif
+2.Diagnostik
+3.Prediktif
+4.Preskriptif
+5.Kognitif
+
+ 1.Analitik Deskriptif
+   Merangkum model semantik besar untuk mengambarkan hasil kepada pemangku kepentingan.
+   Dengan mengembangkan indikator kinerja utama (KPI), strategi ini dapat membantu melacak keberhasilan atau kegagalan tujuan utama.
+   Metrik seperti laba atas investasi (ROI) digunakan dibanyak industri, dan metrik khusus dikembangkan untuk melacak kinerja di industri tertentu.
+  Contoh: Menghasilkan laporan untuk memberikan tampilan data penjualan dan keuangan organisasi
+
+ 2.Analitik Diagnostik
+   Membantu menjawab pertanyaan mengapa peristiwa terjadi.
+   Umunya proses ini terjadi dalam 3 langkah:
+   1.Identifikasi anomali dalam data
+     Anomali ini mungkin merupakan perubahan tak terduga dalam metrik atau pasar tertentu.
+   2.Kumpulkan data yang terkait dengan anomali ini.
+   3.Gunakan teknik statistik untuk menemukan hubungan dan tren yang menjelaskan anomali ini.
+
+  3.Analitik Prediktif
+    Membantu memprediksi masa depan.
+    Menggunakan data historis untuk Mengidentifikasi tren dan menentukan apakah tren tersebut kemungkinan akan berulang
+
+  4.Analitik Preskriptif
+    Membantu menjawab pertanyaan tentang tindakan mana yang harus diambil untuk mencapai tujuan atau target.
+
+  5.Analitik Kognitif
+    Mencoba menarik kesimpulan dari data dan pola yang ada, memperoleh kesimpulan berdasarkan basis pengetahuan yang ada , dan kemudian menambahkan temuan ini kembali ke basis pengetahuan untuk kesimpulan di masa mendatang, lingkaran umpan balik pembelajaran mandiri.
+    

@@ -36,3 +36,6 @@ print(vehicle[-4:])
 #kamh bisa mengabungkan positive dengan negative indexing ketika slicing
 j = ['1', '2', '3', '4', '5']
 print(j[1:-2])
+
+
+
