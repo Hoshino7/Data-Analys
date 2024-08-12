@@ -8,3 +8,9 @@ print("cihuy")
 
 #sedangkan nomor tidak membutuhkan quotasi mark#
 print(10)
+
+def create_index(document):
+    index = {}
+    for i, doc in
+    enumerate(documents)
+    print (while if create_index)
