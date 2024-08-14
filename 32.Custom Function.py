@@ -1,0 +1,1 @@
+#Fungsi bawaan dapat menghemat banyak pekerjaan, namun anda juga ahrus membuat fungsi kustom anda sendiri untuk menyelesaikan tugas tertentu 
