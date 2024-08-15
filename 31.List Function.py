@@ -21,7 +21,7 @@ print(len(items))
 #Fungsi append() untuk menambahkan item baru ke akhir data 
 #Fungsi append() di panggil menggunakan notasi titik akrena khusus untuk list
 #append() mengubah daftar
-#Ini berarti daftar baru yang di perpanjang akan di simpan dengan nama yang sama
+#Ini berarti daftar baru yang di perpanjang akan di simpan dengan nama yang sama    
 #hal ini memungkinkan karena list itu mutbale atau bisa di ubah kapan saja
 #Fungsi append() untuk list
 #Jika di coba menggunakan append() pada sebuah string, akan terjadi error karena string itu immutable tidak dapat di ubah

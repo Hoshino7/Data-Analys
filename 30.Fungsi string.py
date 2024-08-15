@@ -22,6 +22,7 @@ print("bmw".upper())
 brand = "ikea"
 print(brand.upper())
 
+#Fungsi capitalize()
 #Fungsi capitalize() akan menghemat waktu anda saat perlu mengubah karakter pertama string menjadi huruf kapital sekaligus membuat karakter lainnya menjadi huruf kecil
 #contoh
 city = "semARANG"
