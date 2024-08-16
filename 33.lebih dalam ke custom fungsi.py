@@ -12,7 +12,7 @@ def rect(length, width):
     area = length * width
     perimeter = 2 * (length + width)
     return area, perimeter,
-area, perimeter = rect(10, 5)
+area, perimeter = rect(10, 5) 
 price = 1000 * area, 1000 * perimeter
 print(area, perimeter, price)
 #Multiple return values di pisah dari comma
@@ -37,3 +37,19 @@ def ref(d1, d2):
 x = ref(90, 120)
 print(x)
 #Tidak ada return value awkoakwok 
+#Python memungkinkan argumen fungsi memiliki nilai defaullt.
+#Jika fungsi dipanggil tanpa argumen, argumen akan mendapatkan nilai defaultnya.
+def greet(name = "World"):
+    print("Hello", name)
+greet("John")
+greet()
+
+#Tambahkan Nilai default dengan tanda sama dengan = untuk membuat argumen opsional
+def sambut(nama = "Miracle"):
+    print("Hello", nama)
+sambut()
+
+#Nilai default hanya digunakan jika tidak ada nilai lain yang diteruskan sebagai argumen saat fungsi dipanggil.
+def meriah(nama = "samsudin"):
+    print("Hello", nama)
+meriah("Anna")
