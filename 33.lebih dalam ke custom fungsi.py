@@ -24,12 +24,12 @@ def profitable(d1, d2):
     invest = area > 700
     return invest
 buy = profitable(90, 120)
-print(buy)
+print(buy) 
 #Yang mana tipe datanya itu
-#Argumen sebagai numerik
+#Argumen sebagai numerik 
 #return sebagai boolean true/false
 #Eksekusi kode di dalam baris kode tambahan setelah baris kembali akan di abaikan
-def ref(d1, d2):
+def ref(d1, d2): 
     area = 0
     return area
 #End of function execution
